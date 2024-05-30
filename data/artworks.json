@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Inumaki",
+    "description": "Print  de50x50CM",
+    "price": 5000000,
+    "image": "../assets/images/INUMAKI.png"
+  },
+  {
+    "id": 2,
+    "title": "Angel",
+    "description": "Print de 50x50CM",
+    "price": 7000000,
+    "image": "../assets/images/artblock sketches 2.png"
+  },
+  {
+    "id": 3,
+    "title": "Carre",
+    "description": "Print de 50x50CM",
+    "price": 5000000,
+    "image": "../assets/images/CARRE HALLOWEN.png"
+  },
+  {
+    "id": 4,
+    "title": "Asa Mitaka",
+    "description": "Print de 50x50CM",
+    "price": 7000000,
+    "image": "../assets/images/mitaka 3.png"
+  },
+  {
+    "id": 5,
+    "title": "Carre 2",
+    "description": "Print de 50x50CM",
+    "price": 5000000,
+    "image": "../assets/images/CARRE HALLOWEN.png"
+  },
+  {
+    "id": 6,
+    "title": "Asa mitaka 2",
+    "description": "Print de 50x50CM",
+    "price": 7000000,
+    "image": "../assets/images/mitaka 3.png"
+  },
+  {
+    "id": 7,
+    "title": "Carre 3",
+    "description": "Print de 50x50CM",
+    "price": 5000000,
+    "image": "../assets/images/CARRE HALLOWEN.png"
+  },
+  {
+    "id": 8,
+    "title": "Asa mitaka 3",
+    "description": "Print de 50x50CM",
+    "price": 7000000,
+    "image": "../assets/images/mitaka 3.png"
+  }
+]
